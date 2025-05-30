@@ -1,2 +1,2 @@
 # palash-travels
-your trusted travel partner for plane tickets,visa checking,man power,umrah,plane ticket 
+this is my first website,i made it for my friend's travel agency
