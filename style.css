@@ -1,0 +1,179 @@
+
+
+ .cyan-navbar {
+            background-color: #00ffff !important;
+            padding: 10px 15px;
+padding-left:0px !important;
+margin-left:0px !important;
+padding-right:0px !important;
+margin-right:0px !important;
+        }
+        .logo-with-links {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+padding-left:5px;
+padding-left:0px !important;
+margin-left:0px !important;
+
+        }
+        .navbar-brand img {
+            height: 40px;
+padding-left:0px !important;
+margin-left:0px !important;
+        }
+        .vertical-nav {
+            display: flex;
+            flex-direction:rows;
+            gap: 5px;
+        }
+        .vertical-nav a {
+            color: #333 !important;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 14px;
+            white-space: nowrap;
+        }
+        .vertical-nav a:hover {
+            color: #000 !important;
+            text-decoration: underline;
+        }
+        .dropdown-menu {
+            border: none;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            min-width: 200px;
+position:right !important;
+        }
+        .navbar-toggler {
+            border: none;
+            padding: 0.25rem 0.75rem;
+        }
+        .navbar-toggler-icon {
+            width: 1.2em;
+            height: 1.2em;
+        }
+
+
+div.carousel slide{
+width:100%;
+height:auto;
+
+}
+.carousel-item{
+width:100%;
+height:auto;
+
+}
+h1.image-head{
+background-color:darkblue;
+color:white;
+text-align:center;
+margin:0px;
+
+
+
+background-color: rgba(0, 0, 139, 1.0);
+            color: rgba(0, 255, 255, 0.8); 
+}
+
+
+ .cyan-navbar {
+            background-color: #00ffff !important;
+            padding: 10px 15px;
+padding-left:0px !important;
+margin-left:0px !important;
+padding-right:0px !important;
+margin-right:0px !important;
+        }
+        .logo-with-links {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+padding-left:5px;
+padding-left:0px !important;
+margin-left:0px !important;
+
+        }
+        .navbar-brand img {
+            height: 40px;
+padding-left:0px !important;
+margin-left:0px !important;
+        }
+        .vertical-nav {
+            display: flex;
+            flex-direction:rows;
+            gap: 5px;
+        }
+        .vertical-nav a {
+            color: #333 !important;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 14px;
+            white-space: nowrap;
+        }
+        .vertical-nav a:hover {
+            color: #000 !important;
+            text-decoration: underline;
+        }
+        .dropdown-menu {
+            border: none;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            min-width: 200px;
+position:right !important;
+        }
+        .navbar-toggler {
+            border: none;
+            padding: 0.25rem 0.75rem;
+        }
+        .navbar-toggler-icon {
+            width: 1.2em;
+            height: 1.2em;
+        }
+
+
+div.carousel slide{
+width:100%;
+height:auto;
+
+}
+.carousel-item{
+width:100%;
+height:auto;
+
+}
+h1.image-head{
+background-color:darkblue;
+color:white !important;
+text-align:center;
+margin:0px;
+
+
+
+background-color: rgba(0, 0, 139, 1.0);
+            color: rgba(0, 255, 255, 0.8); 
+}
+
+
+
+ .service-item {
+        padding: 10px 20px;
+        border-radius: 5px;
+        background-color: rgba(255, 255, 255, 0.1);
+        transition: all 0.3s ease;
+    }
+    .service-item:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        transform: translateY(-3px);
+
+
+
+
+
+
+
+
+
+
+
+
+
