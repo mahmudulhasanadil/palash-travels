@@ -1,6 +1,6 @@
 
 
- .cyan-navbar {
+  .cyan-navbar {
             background-color: #00ffff !important;
             padding: 10px 15px;
 padding-left:0px !important;
@@ -52,6 +52,7 @@ position:right !important;
             width: 1.2em;
             height: 1.2em;
         }
+
 
 
 div.carousel slide{
